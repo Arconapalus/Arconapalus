@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+
 Skills
+
+![Windows](https://img.shields.io/badge/OS-windows-0078D6?style=plastic&logo=windows&logoColor=white)  ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+
+
+
 
 
 Platform
