@@ -1,5 +1,13 @@
 ### Hi I'm Paul  👋
 
+I'm cloud security engineer who likes to program and be involve in all things technology.
+I'm a she-bang scripting guy but I'm currently learning python and up next is Rust and have knowledge of Ruby, React, Typescript, TailwindCSS, Java. I like building and producing new technology from ideas to product.
+ Frameworks that I've worked on is Rails, Sinatra, Electron,
+
+ I have a few I like to learn more on such as Scala, Elixir
+ to name a few
+
+
 <!--
 **Arconapalus/Arconapalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
