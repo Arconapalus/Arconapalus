@@ -35,7 +35,10 @@ Code
 Tools
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arconapalus)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arconapalus)](https://git.io/streak-stats)
+
+
+<!-- [![Paul D GitHub stats](https://github-readme-stats.vercel.app/api?username=Arconapalus)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Arconapalus&left_color=green&right_color=red)
