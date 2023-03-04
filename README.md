@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Skills
 
-![Windows](https://img.shields.io/badge/OS-windows-0078D6?style=plastic&logo=windows&logoColor=white)  ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/OS-windows-0078D6?style=plastic&logo=windows&logoColor=white)  ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
@@ -38,7 +38,6 @@ Tools
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arconapalus)](https://git.io/streak-stats)
 
 
-<!-- [![Paul D GitHub stats](https://github-readme-stats.vercel.app/api?username=Arconapalus)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Arconapalus&left_color=green&right_color=red)
